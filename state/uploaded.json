@@ -14,6 +14,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-20T17:31:45.447730+00:00"
+    },
+    "1gGDDljXmv0OexFnPlIks9UiqiJtpbjjn": {
+      "name": "SimplSnacks-Woman-Smashed-Potato-Board-Reel-20sec.mp4",
+      "yt_id": "65sydpCdoKQ",
+      "yt_url": "https://youtu.be/65sydpCdoKQ",
+      "title": "Crispy Smashed Potatoes with Bacon and Cheese",
+      "topic": "Smashed Potato Recipe",
+      "tags_count": 12,
+      "hashtags": [
+        "#smashedpotatoes",
+        "#foodie",
+        "#shorts"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-20T18:00:54.743523+00:00"
     }
   },
   "history": [
@@ -24,6 +39,14 @@
       "topic": "Chocolate Pinecone Baking",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-20T17:31:45.447730+00:00"
+    },
+    {
+      "drive_id": "1gGDDljXmv0OexFnPlIks9UiqiJtpbjjn",
+      "yt_id": "65sydpCdoKQ",
+      "title": "Crispy Smashed Potatoes with Bacon and Cheese",
+      "topic": "Smashed Potato Recipe",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-20T18:00:54.743523+00:00"
     }
   ]
 }
