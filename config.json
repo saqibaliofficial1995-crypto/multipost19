@@ -1,0 +1,14 @@
+{
+  "made_for_kids": false,
+  "privacy_status": "public",
+  "default_language": "en",
+  "max_uploads_per_run": 1,
+  "drive_folder_id": "12lykYV6Y8Mv7K6-O_kJVq4e8imB5U8W9",
+  "ai_provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "comment_reply": {
+    "enabled": true,
+    "max_replies_per_run": 15,
+    "lookback_days": 7
+  }
+}
