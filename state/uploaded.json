@@ -59,6 +59,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-22T21:17:00.000059+00:00"
+    },
+    "1jyOXeZN2E78c0SH5AESUbMaLvIy095U9": {
+      "name": "SimplSnacks-Woman-Cinnamon-Roll-Christmas-Tree-Reel-20sec.mp4",
+      "yt_id": "gqmlgRhCrOM",
+      "yt_url": "https://youtu.be/gqmlgRhCrOM",
+      "title": "You won't believe this Christmas tree shape! #Shorts",
+      "topic": "Holiday Baking",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#baking",
+        "#christmas"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-23T13:41:32.824282+00:00"
     }
   },
   "history": [
@@ -93,6 +108,14 @@
       "topic": "Christmas brownie decorating",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-22T21:17:00.000059+00:00"
+    },
+    {
+      "drive_id": "1jyOXeZN2E78c0SH5AESUbMaLvIy095U9",
+      "yt_id": "gqmlgRhCrOM",
+      "title": "You won't believe this Christmas tree shape! #Shorts",
+      "topic": "Holiday Baking",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-23T13:41:32.824282+00:00"
     }
   ]
 }
