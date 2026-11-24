@@ -89,6 +89,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-24T02:36:08.271513+00:00"
+    },
+    "1lVC28kJuc-B7GvyEByYTMMXnpwXlpdt6": {
+      "name": "SimplSnacks-Woman-Christmas-Tree-Charcuterie-Reel-20sec.mp4",
+      "yt_id": "gDm8W41SH-I",
+      "yt_url": "https://youtu.be/gDm8W41SH-I",
+      "title": "The most creative holiday appetizer ever! #Shorts",
+      "topic": "Holiday food art",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#foodart",
+        "#christmas"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-24T14:17:57.849900+00:00"
     }
   },
   "history": [
@@ -139,6 +154,14 @@
       "topic": "Holiday Popcorn Recipe",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-24T02:36:08.271513+00:00"
+    },
+    {
+      "drive_id": "1lVC28kJuc-B7GvyEByYTMMXnpwXlpdt6",
+      "yt_id": "gDm8W41SH-I",
+      "title": "The most creative holiday appetizer ever! #Shorts",
+      "topic": "Holiday food art",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-24T14:17:57.849900+00:00"
     }
   ]
 }
