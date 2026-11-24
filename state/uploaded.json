@@ -74,6 +74,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-23T13:41:32.824282+00:00"
+    },
+    "1pKjpRB7359XX7emrKMlK6-1Z0A1rNMvl": {
+      "name": "SimplSnacks-Woman-White-Choc-Christmas-Popcorn-Reel-20sec.mp4",
+      "yt_id": "KfXjoR1Y3C4",
+      "yt_url": "https://youtu.be/KfXjoR1Y3C4",
+      "title": "The easiest holiday snack hack you need to see! #Shorts",
+      "topic": "Holiday Popcorn Recipe",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#popcorn",
+        "#foodhacks"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-24T02:36:08.271513+00:00"
     }
   },
   "history": [
@@ -116,6 +131,14 @@
       "topic": "Holiday Baking",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-23T13:41:32.824282+00:00"
+    },
+    {
+      "drive_id": "1pKjpRB7359XX7emrKMlK6-1Z0A1rNMvl",
+      "yt_id": "KfXjoR1Y3C4",
+      "title": "The easiest holiday snack hack you need to see! #Shorts",
+      "topic": "Holiday Popcorn Recipe",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-24T02:36:08.271513+00:00"
     }
   ]
 }
