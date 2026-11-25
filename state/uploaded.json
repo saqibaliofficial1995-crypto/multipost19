@@ -119,6 +119,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-25T00:07:28.559483+00:00"
+    },
+    "1PhMClDN3qyeIfkbgCHDM2y8PPYzIL4K_": {
+      "name": "SimplSnacks-Woman-Seven-Layer-Bars-Reel-20sec.mp4",
+      "yt_id": "nA9S2BWwey4",
+      "yt_url": "https://youtu.be/nA9S2BWwey4",
+      "title": "The secret to the perfect cookie bar crust #Shorts",
+      "topic": "Baking cookie bars",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#baking",
+        "#foodie"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-25T13:31:07.113084+00:00"
     }
   },
   "history": [
@@ -185,6 +200,14 @@
       "topic": "Chocolate marshmallow cookies",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-25T00:07:28.559483+00:00"
+    },
+    {
+      "drive_id": "1PhMClDN3qyeIfkbgCHDM2y8PPYzIL4K_",
+      "yt_id": "nA9S2BWwey4",
+      "title": "The secret to the perfect cookie bar crust #Shorts",
+      "topic": "Baking cookie bars",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-25T13:31:07.113084+00:00"
     }
   ]
 }
