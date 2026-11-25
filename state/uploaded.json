@@ -134,6 +134,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-25T13:31:07.113084+00:00"
+    },
+    "17mk0yIOFOjPZoolGdCkVnSVlEBHaRPUe": {
+      "name": "SimplSnacks-Woman-Gingerbread-Cookies-Reel-20sec.mp4",
+      "yt_id": "Eh1C7YM-U38",
+      "yt_url": "https://youtu.be/Eh1C7YM-U38",
+      "title": "The secret to the perfect crackle cookie #Shorts",
+      "topic": "cookie baking",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#baking",
+        "#cookies"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-25T23:48:31.110214+00:00"
     }
   },
   "history": [
@@ -208,6 +223,14 @@
       "topic": "Baking cookie bars",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-25T13:31:07.113084+00:00"
+    },
+    {
+      "drive_id": "17mk0yIOFOjPZoolGdCkVnSVlEBHaRPUe",
+      "yt_id": "Eh1C7YM-U38",
+      "title": "The secret to the perfect crackle cookie #Shorts",
+      "topic": "cookie baking",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-25T23:48:31.110214+00:00"
     }
   ]
 }
