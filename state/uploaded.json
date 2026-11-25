@@ -104,6 +104,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-24T14:17:57.849900+00:00"
+    },
+    "1kvQ2tQE1RoJGOx5be7DprwoRMv2VTPqJ": {
+      "name": "SimplSnacks-Woman-Hot-Cocoa-Cookies-Reel-20sec.mp4",
+      "yt_id": "ulb5Oqy8WOc",
+      "yt_url": "https://youtu.be/ulb5Oqy8WOc",
+      "title": "The secret inside these cookies is insane! #Shorts",
+      "topic": "Chocolate marshmallow cookies",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#baking",
+        "#chocolate"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-25T00:07:28.559483+00:00"
     }
   },
   "history": [
@@ -162,6 +177,14 @@
       "topic": "Holiday food art",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-24T14:17:57.849900+00:00"
+    },
+    {
+      "drive_id": "1kvQ2tQE1RoJGOx5be7DprwoRMv2VTPqJ",
+      "yt_id": "ulb5Oqy8WOc",
+      "title": "The secret inside these cookies is insane! #Shorts",
+      "topic": "Chocolate marshmallow cookies",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-25T00:07:28.559483+00:00"
     }
   ]
 }
