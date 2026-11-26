@@ -149,6 +149,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-25T23:48:31.110214+00:00"
+    },
+    "19uSCIxyJEjtlVsadiA6TMNZ4RNLsLZGX": {
+      "name": "SimplSnacks-Woman-Garlic-Bread-Wreath-Reel-20sec.mp4",
+      "yt_id": "yVTlXk1XvQ8",
+      "yt_url": "https://youtu.be/yVTlXk1XvQ8",
+      "title": "The ultimate cheese pull you need to see #Shorts",
+      "topic": "homemade bread baking",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#baking",
+        "#cheese"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-26T13:10:29.132153+00:00"
     }
   },
   "history": [
@@ -231,6 +246,14 @@
       "topic": "cookie baking",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-25T23:48:31.110214+00:00"
+    },
+    {
+      "drive_id": "19uSCIxyJEjtlVsadiA6TMNZ4RNLsLZGX",
+      "yt_id": "yVTlXk1XvQ8",
+      "title": "The ultimate cheese pull you need to see #Shorts",
+      "topic": "homemade bread baking",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-26T13:10:29.132153+00:00"
     }
   ]
 }
