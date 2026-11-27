@@ -164,6 +164,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-26T13:10:29.132153+00:00"
+    },
+    "13v2fMMgxngFhsppuMKt66kgyevRtn9Ci": {
+      "name": "SimplSnacks-Woman-Strawberry-Santas-Reel-20sec.mp4",
+      "yt_id": "j7577VeVCsk",
+      "yt_url": "https://youtu.be/j7577VeVCsk",
+      "title": "These strawberry mushrooms are too cute to eat! #Shorts",
+      "topic": "strawberry mushroom dessert",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#strawberrymushroom",
+        "#foodart"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-27T00:00:30.273663+00:00"
     }
   },
   "history": [
@@ -254,6 +269,14 @@
       "topic": "homemade bread baking",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-26T13:10:29.132153+00:00"
+    },
+    {
+      "drive_id": "13v2fMMgxngFhsppuMKt66kgyevRtn9Ci",
+      "yt_id": "j7577VeVCsk",
+      "title": "These strawberry mushrooms are too cute to eat! #Shorts",
+      "topic": "strawberry mushroom dessert",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-27T00:00:30.273663+00:00"
     }
   ]
 }
