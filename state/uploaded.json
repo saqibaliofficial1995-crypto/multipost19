@@ -179,6 +179,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-27T00:00:30.273663+00:00"
+    },
+    "19zChp2gOnuzGK25GL3qsQW7OvKGifTkY": {
+      "name": "SimplSnacks-Woman-Thanksgiving-Nachos-Reel-20sec.mp4",
+      "yt_id": "LU66One-MYA",
+      "yt_url": "https://youtu.be/LU66One-MYA",
+      "title": "The ultimate Thanksgiving snack hack! #Shorts",
+      "topic": "Thanksgiving appetizer",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#cooking",
+        "#thanksgiving"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-27T13:08:03.891985+00:00"
     }
   },
   "history": [
@@ -277,6 +292,14 @@
       "topic": "strawberry mushroom dessert",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-27T00:00:30.273663+00:00"
+    },
+    {
+      "drive_id": "19zChp2gOnuzGK25GL3qsQW7OvKGifTkY",
+      "yt_id": "LU66One-MYA",
+      "title": "The ultimate Thanksgiving snack hack! #Shorts",
+      "topic": "Thanksgiving appetizer",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-27T13:08:03.891985+00:00"
     }
   ]
 }
